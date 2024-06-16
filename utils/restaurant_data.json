@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Café Grumpy",
+    "address": "193 Meserole Avenue, Brooklyn, NY",
+    "distance": "1.2 miles",
+    "rating": 4.5,
+    "reviews": 200,
+    "description": "Café Grumpy is a cozy coffee shop known for its meticulously sourced beans and artisanal brewing techniques. Located in the heart of Brooklyn, it offers a warm and inviting atmosphere, perfect for enjoying a cup of specialty coffee.",
+    "products": [
+      "666e9a9e8c8d1adde1e6995f",
+      "666e9a9e8c8d1adde1e69960",
+      "666e9a9e8c8d1adde1e69961",
+      "666e9a9e8c8d1adde1e69962",
+      "666e9a9e8c8d1adde1e69963",
+      "666e9a9e8c8d1adde1e69964",
+      "666e9a9e8c8d1adde1e69965",
+      "666e9a9e8c8d1adde1e69966"
+    ]
+  },
+  {
+    "name": "Blue Bottle Coffee",
+    "address": "450 W 15th St, New York, NY",
+    "distance": "0.8 miles",
+    "rating": 4.0,
+    "reviews": 150,
+    "description": "Blue Bottle Coffee is a renowned coffee chain celebrated for its commitment to quality and sustainability. Situated in New York City, it serves single-origin coffee and delightful pastries in a modern and minimalist setting.",
+    "products": [
+      "666e9a9e8c8d1adde1e69967",
+      "666e9a9e8c8d1adde1e69968",
+      "666e9a9e8c8d1adde1e69969",
+      "666e9a9e8c8d1adde1e6996a",
+      "666e9a9e8c8d1adde1e6996b",
+      "666e9a9e8c8d1adde1e6996c",
+      "666e9a9e8c8d1adde1e6996d",
+      "666e9a9e8c8d1adde1e6996e"
+    ]
+  },
+  {
+    "name": "Joe Coffee Company",
+    "address": "131 W 21st St, New York, NY",
+    "distance": "0.5 miles",
+    "rating": 4.3,
+    "reviews": 180,
+    "description": "Joe Coffee Company is a beloved local coffee chain in New York City, known for its friendly service and dedication to brewing the perfect cup of coffee. Located in Chelsea, it provides a welcoming environment for coffee enthusiasts.",
+    "products": [
+      "666e9a9e8c8d1adde1e6996f",
+      "666e9a9e8c8d1adde1e69970",
+      "666e9a9e8c8d1adde1e69971",
+      "666e9a9e8c8d1adde1e69972",
+      "666e9a9e8c8d1adde1e69973",
+      "666e9a9e8c8d1adde1e69974",
+      "666e9a9e8c8d1adde1e69975",
+      "666e9a9e8c8d1adde1e69976"
+    ]
+  },
+  {
+    "name": "Birch Coffee",
+    "address": "21 E 27th St, New York, NY",
+    "distance": "1.5 miles",
+    "rating": 4.6,
+    "reviews": 230,
+    "description": "Birch Coffee is a neighborhood favorite known for its cozy ambiance and community-focused approach. Situated in the Flatiron District, it offers a variety of coffee blends and tasty treats in a relaxed setting.",
+    "products": [
+      "666e9a9e8c8d1adde1e69977",
+      "666e9a9e8c8d1adde1e69978",
+      "666e9a9e8c8d1adde1e69979",
+      "666e9a9e8c8d1adde1e6997a",
+      "666e9a9e8c8d1adde1e6997b",
+      "666e9a9e8c8d1adde1e6997c",
+      "666e9a9e8c8d1adde1e6997d",
+      "666e9a9e8c8d1adde1e6997e"
+    ]
+  },
+  {
+    "name": "Stumptown Coffee Roasters",
+    "address": "30 W 8th St, New York, NY",
+    "distance": "1.0 miles",
+    "rating": 4.4,
+    "reviews": 210,
+    "description": "Stumptown Coffee Roasters is a pioneer in the specialty coffee scene, celebrated for its direct trade practices and expertly roasted beans. Located in Greenwich Village, it provides a vibrant space for coffee aficionados.",
+    "products": [
+      "666e9a9e8c8d1adde1e6997f",
+      "666e9a9e8c8d1adde1e69980",
+      "666e9a9e8c8d1adde1e69981",
+      "666e9a9e8c8d1adde1e69982",
+      "666e9a9e8c8d1adde1e69983",
+      "666e9a9e8c8d1adde1e69984",
+      "666e9a9e8c8d1adde1e69985",
+      "666e9a9e8c8d1adde1e69986"
+    ]
+  },
+  {
+    "name": "Think Coffee",
+    "address": "248 Mercer St, New York, NY",
+    "distance": "1.7 miles",
+    "rating": 4.2,
+    "reviews": 170,
+    "description": "Think Coffee is a socially conscious coffeehouse known for its fair-trade coffee and commitment to sustainability. Nestled in Greenwich Village, it offers a cozy atmosphere and a menu of ethically sourced beverages.",
+    "products": [
+      "666e9a9e8c8d1adde1e6995f",
+      "666e9a9e8c8d1adde1e69960",
+      "666e9a9e8c8d1adde1e69961",
+      "666e9a9e8c8d1adde1e69962",
+      "666e9a9e8c8d1adde1e69963",
+      "666e9a9e8c8d1adde1e69964",
+      "666e9a9e8c8d1adde1e69965",
+      "666e9a9e8c8d1adde1e69966"
+    ]
+  },
+  {
+    "name": "Gregorys Coffee",
+    "address": "874 6th Ave, New York, NY",
+    "distance": "0.9 miles",
+    "rating": 4.1,
+    "reviews": 160,
+    "description": "Gregorys Coffee is a bustling coffee chain known for its innovative coffee blends and modern cafe experience. Situated in Midtown Manhattan, it caters to both coffee enthusiasts and those seeking a quick bite.",
+    "products": [
+      "666e9a9e8c8d1adde1e6996f",
+      "666e9a9e8c8d1adde1e69970",
+      "666e9a9e8c8d1adde1e69971",
+      "666e9a9e8c8d1adde1e69972",
+      "666e9a9e8c8d1adde1e69973",
+      "666e9a9e8c8d1adde1e69974",
+      "666e9a9e8c8d1adde1e69975",
+      "666e9a9e8c8d1adde1e69976"
+    ]
+  },
+  {
+    "name": "Everyman Espresso",
+    "address": "301 W Broadway, New York, NY",
+    "distance": "1.3 miles",
+    "rating": 4.7,
+    "reviews": 220,
+    "description": "Everyman Espresso is a specialty coffee shop celebrated for its expertly crafted espresso drinks and welcoming atmosphere. Located in SoHo, it attracts locals and visitors alike with its dedication to quality coffee.",
+    "products": [
+      "666e9a9e8c8d1adde1e69977",
+      "666e9a9e8c8d1adde1e69978",
+      "666e9a9e8c8d1adde1e69979",
+      "666e9a9e8c8d1adde1e6997a",
+      "666e9a9e8c8d1adde1e6997b",
+      "666e9a9e8c8d1adde1e6997c",
+      "666e9a9e8c8d1adde1e6997d",
+      "666e9a9e8c8d1adde1e6997e"
+    ]
+  },
+  {
+    "name": "Culture Espresso",
+    "address": "72 W 38th St, New York, NY",
+    "distance": "0.6 miles",
+    "rating": 4.5,
+    "reviews": 200,
+    "description": "Culture Espresso is a hidden gem in Midtown Manhattan, known for its exceptional coffee sourced from small-batch roasters. With a focus on quality and flavor, it provides a cozy retreat for coffee lovers.",
+    "products": [
+      "666e9a9e8c8d1adde1e6997f",
+      "666e9a9e8c8d1adde1e69980",
+      "666e9a9e8c8d1adde1e69981",
+      "666e9a9e8c8d1adde1e69982",
+      "666e9a9e8c8d1adde1e69983",
+      "666e9a9e8c8d1adde1e69984",
+      "666e9a9e8c8d1adde1e69985",
+      "666e9a9e8c8d1adde1e69986"
+    ]
+  },
+  {
+    "name": "Devoción",
+    "address": "69 Grand St, Brooklyn, NY",
+    "distance": "2.0 miles",
+    "rating": 4.8,
+    "reviews": 240,
+    "description": "Devoción is a coffee destination revered for its farm-to-table approach, featuring freshly roasted beans from Colombia. Situated in Williamsburg, Brooklyn, it offers a vibrant space for coffee connoisseurs and brunch aficionados.",
+    "products": [
+      "666e9a9e8c8d1adde1e6995f",
+      "666e9a9e8c8d1adde1e69960",
+      "666e9a9e8c8d1adde1e69961",
+      "666e9a9e8c8d1adde1e69962",
+      "666e9a9e8c8d1adde1e69963",
+      "666e9a9e8c8d1adde1e69964",
+      "666e9a9e8c8d1adde1e69965",
+      "666e9a9e8c8d1adde1e69966"
+    ]
+  },
+  {
+    "name": "Ninth Street Espresso",
+    "address": "700 E 9th St, New York, NY",
+    "distance": "1.8 miles",
+    "rating": 4.3,
+    "reviews": 190,
+    "description": "Ninth Street Espresso is a pioneering coffee bar known for its dedication to simple, yet exquisite coffee preparations. Located in the East Village, it emphasizes quality and consistency in every cup.",
+    "products": [
+      "666e9a9e8c8d1adde1e69967",
+      "666e9a9e8c8d1adde1e69968",
+      "666e9a9e8c8d1adde1e69969",
+      "666e9a9e8c8d1adde1e6996a",
+      "666e9a9e8c8d1adde1e6996b",
+      "666e9a9e8c8d1adde1e6996c",
+      "666e9a9e8c8d1adde1e6996d",
+      "666e9a9e8c8d1adde1e6996e"
+    ]
+  },
+  {
+    "name": "Abraço",
+    "address": "81 E 7th St, New York, NY",
+    "distance": "1.6 miles",
+    "rating": 4.4,
+    "reviews": 175,
+    "description": "Abraço is a charming coffee shop renowned for its intimate setting and exceptional coffee sourced from around the world. Tucked away in the East Village, it delights visitors with its cozy ambiance and delectable pastries.",
+    "products": [
+      "666e9a9e8c8d1adde1e6996f",
+      "666e9a9e8c8d1adde1e69970",
+      "666e9a9e8c8d1adde1e69971",
+      "666e9a9e8c8d1adde1e69972",
+      "666e9a9e8c8d1adde1e69973",
+      "666e9a9e8c8d1adde1e69974",
+      "666e9a9e8c8d1adde1e69975",
+      "666e9a9e8c8d1adde1e69976"
+    ]
+  },
+  {
+    "name": "Sey Coffee",
+    "address": "18 Grattan St, Brooklyn, NY",
+    "distance": "2.5 miles",
+    "rating": 4.6,
+    "reviews": 210,
+    "description": "Sey Coffee is a specialty coffee roaster committed to sustainability and quality. Located in Bushwick, Brooklyn, it offers a modern space where coffee enthusiasts can enjoy meticulously brewed beverages.",
+    "products": [
+      "666e9a9e8c8d1adde1e69977",
+      "666e9a9e8c8d1adde1e69978",
+      "666e9a9e8c8d1adde1e69979",
+      "666e9a9e8c8d1adde1e6997a",
+      "666e9a9e8c8d1adde1e6997b",
+      "666e9a9e8c8d1adde1e6997c",
+      "666e9a9e8c8d1adde1e6997d",
+      "666e9a9e8c8d1adde1e6997e"
+    ]
+  },
+  {
+    "name": "La Colombe Coffee Roasters",
+    "address": "319 Church St, New York, NY",
+    "distance": "1.1 miles",
+    "rating": 4.5,
+    "reviews": 200,
+    "description": "La Colombe Coffee Roasters is a renowned coffee brand known for its artisanal blends and distinct coffee offerings. Situated in TriBeCa, it provides a stylish and inviting environment for coffee aficionados.",
+    "products": [
+      "666e9a9e8c8d1adde1e6997f",
+      "666e9a9e8c8d1adde1e69980",
+      "666e9a9e8c8d1adde1e69981",
+      "666e9a9e8c8d1adde1e69982",
+      "666e9a9e8c8d1adde1e69983",
+      "666e9a9e8c8d1adde1e69984",
+      "666e9a9e8c8d1adde1e69985",
+      "666e9a9e8c8d1adde1e69986"
+    ]
+  },
+  {
+    "name": "Irving Farm New York",
+    "address": "78 W 3rd St, New York, NY",
+    "distance": "1.4 miles",
+    "rating": 4.2,
+    "reviews": 180,
+    "description": "Irving Farm New York is a coffeehouse celebrated for its farm-to-cup philosophy and commitment to community. Located in the West Village, it offers a cozy retreat where guests can savor freshly brewed coffee.",
+    "products": [
+      "666e9a9e8c8d1adde1e69987",
+      "666e9a9e8c8d1adde1e69988",
+      "666e9a9e8c8d1adde1e69989",
+      "666e9a9e8c8d1adde1e6998a",
+      "666e9a9e8c8d1adde1e6998b",
+      "666e9a9e8c8d1adde1e6998c",
+      "666e9a9e8c8d1adde1e6998d",
+      "666e9a9e8c8d1adde1e6998e"
+    ]
+  },
+  {
+    "name": "Mudspot",
+    "address": "307 E 9th St, New York, NY",
+    "distance": "1.7 miles",
+    "rating": 4.3,
+    "reviews": 160,
+    "description": "Mudspot is a neighborhood cafe known for its laid-back atmosphere and quality coffee and food. Situated in the East Village, it serves as a local favorite for brunch, coffee, and casual dining.",
+    "products": [
+      "666e9a9e8c8d1adde1e6998f",
+      "666e9a9e8c8d1adde1e69990",
+      "666e9a9e8c8d1adde1e69991",
+      "666e9a9e8c8d1adde1e69992",
+      "666e9a9e8c8d1adde1e69993",
+      "666e9a9e8c8d1adde1e69994",
+      "666e9a9e8c8d1adde1e69995",
+      "666e9a9e8c8d1adde1e69996"
+    ]
+  },
+  {
+    "name": "Ralph's Coffee",
+    "address": "888 Madison Ave, New York, NY",
+    "distance": "2.3 miles",
+    "rating": 4.1,
+    "reviews": 150,
+    "description": "Ralph's Coffee is a stylish cafe located within Ralph Lauren's flagship store on Madison Avenue. Known for its elegant decor and premium coffee offerings, it provides a luxurious experience in the heart of Manhattan.",
+    "products": [
+      "666e9a9e8c8d1adde1e69997",
+      "666e9a9e8c8d1adde1e69998",
+      "666e9a9e8c8d1adde1e69999",
+      "666e9a9e8c8d1adde1e6999a",
+      "666e9a9e8c8d1adde1e6999b",
+      "666e9a9e8c8d1adde1e6999c",
+      "666e9a9e8c8d1adde1e6999d",
+      "666e9a9e8c8d1adde1e6999e"
+    ]
+  },
+  {
+    "name": "Happy Bones",
+    "address": "394 Broome St, New York, NY",
+    "distance": "1.2 miles",
+    "rating": 4.5,
+    "reviews": 190,
+    "description": "Happy Bones is a chic coffee shop renowned for its minimalist design and specialty coffee selections. Located in SoHo, it offers a serene environment where patrons can enjoy meticulously brewed coffee.",
+    "products": [
+      "666e9a9e8c8d1adde1e6999f",
+      "666e9a9e8c8d1adde1e699a0",
+      "666e9a9e8c8d1adde1e699a1",
+      "666e9a9e8c8d1adde1e699a2",
+      "666e9a9e8c8d1adde1e699a3",
+      "666e9a9e8c8d1adde1e699a4",
+      "666e9a9e8c8d1adde1e699a5",
+      "666e9a9e8c8d1adde1e699a6"
+    ]
+  },
+  {
+    "name": "Box Kite Coffee",
+    "address": "115 St Marks Pl, New York, NY",
+    "distance": "1.9 miles",
+    "rating": 4.4,
+    "reviews": 170,
+    "description": "Box Kite Coffee is a specialty coffee bar committed to showcasing unique and seasonal coffee offerings. Situated in the East Village, it provides a relaxed space for coffee aficionados seeking quality brews.",
+    "products": [
+      "666e9a9e8c8d1adde1e699a7",
+      "666e9a9e8c8d1adde1e699a8",
+      "666e9a9e8c8d1adde1e699a9",
+      "666e9a9e8c8d1adde1e699aa",
+      "666e9a9e8c8d1adde1e699ab",
+      "666e9a9e8c8d1adde1e699ac",
+      "666e9a9e8c8d1adde1e699ad",
+      "666e9a9e8c8d1adde1e699ae"
+    ]
+  },
+  {
+    "name": "East One Coffee Roasters",
+    "address": "384 Court St, Brooklyn, NY",
+    "distance": "2.8 miles",
+    "rating": 4.7,
+    "reviews": 220,
+    "description": "East One Coffee Roasters is a Brooklyn-based coffee destination known for its direct trade coffee and inviting atmosphere. Located in Carroll Gardens, it offers a spacious cafe where guests can enjoy specialty coffee and freshly baked goods.",
+    "products": [
+      "666e9a9e8c8d1adde1e699af",
+      "666e9a9e8c8d1adde1e699b0",
+      "666e9a9e8c8d1adde1e699b1",
+      "666e9a9e8c8d1adde1e699b2",
+      "666e9a9e8c8d1adde1e699b3",
+      "666e9a9e8c8d1adde1e699b4",
+      "666e9a9e8c8d1adde1e699b5",
+      "666e9a9e8c8d1adde1e699b6"
+    ]
+  }
+]
