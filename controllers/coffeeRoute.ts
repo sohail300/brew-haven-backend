@@ -8,7 +8,7 @@ export async function getAllRestaurants(req: Request, res: Response) {
     console.log(shops);
 
     return res.status(200).json({
-      success: false,
+      success: true,
       shops,
     });
   } catch (err) {
