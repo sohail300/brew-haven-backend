@@ -13,6 +13,12 @@ const shopSchema = new mongoose.Schema({
     type: String,
     require: true,
   },
+  latitude: {
+    type: String,
+  },
+  longitude: {
+    type: String,
+  },
   distance: {
     type: String,
     require: true,

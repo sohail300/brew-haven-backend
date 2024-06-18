@@ -1,9 +1,9 @@
 import express from "express";
 import {
-  addProduct,
-  addRestaurant,
   getAllRestaurants,
   getRestaurantDetails,
+  // placeOrder,
+  // webhookStripe,
 } from "../controllers/coffeeRoute";
 
 const router = express.Router();
@@ -12,8 +12,8 @@ router.get("/restaurants", getAllRestaurants);
 
 router.get("/restaurant/:id", getRestaurantDetails);
 
-router.post("/product/add", addProduct);
+// router.get("/placeOrder", placeOrder);
 
-router.post("/restaurant/add", addRestaurant);
+// router.get("/webhook", webhookStripe);
 
 export default router;
