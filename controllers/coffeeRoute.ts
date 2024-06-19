@@ -102,7 +102,7 @@ export const webhookStripe = async (req: Request, res: Response) => {
         break;
 
       case "charge.succeeded":
-        console.log("chargesucceeded");
+        console.log("charge succeeded");
         break;
 
       case "customer.created":
