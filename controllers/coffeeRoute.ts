@@ -52,6 +52,7 @@ const stripeInstance = new Stripe(process.env.STRIPE_API_KEY);
 export const placeOrder = async (req: Request, res: Response) => {
   try {
     const { email } = req.body;
+    console.log(email);
 
     const customer = await stripeInstance.customers.create({
       metadata: {
@@ -73,8 +74,9 @@ export const placeOrder = async (req: Request, res: Response) => {
     });
 
     console.log(session.url);
+    return res.json({ url: session.url });
 
-    res.redirect(303, session.url);
+    // res.redirect(303, session.url);
   } catch (err) {
     console.log("Error occured:", err);
     return res
